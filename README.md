@@ -1,5 +1,4 @@
 Stock Prediction Project
-
 Overview
 This repository contains a Python script (train.py) designed to process stock data and train a machine learning model for stock price prediction. The goal of this script is to individually handle CSV files for different companies, train a Long Short-Term Memory (LSTM) model on each company's data, and produce a graph of the predictions.
 
@@ -33,5 +32,3 @@ High: Highest price of the stock
 Low: Lowest price of the stock
 Close: Closing price of the stock
 Volume: Trading volume
-The dataset files should be placed in the stock_test directory.
-
